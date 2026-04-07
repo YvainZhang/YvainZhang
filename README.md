@@ -34,8 +34,8 @@
 
 ### `~/stats/`
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YvainZhang&show_icons=true&theme=tokyonight&hide_border=true" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YvainZhang&layout=compact&theme=tokyonight&hide_border=true" alt="langs" />
+  <img src="https://github-readme-stats.deno.dev/api?username=YvainZhang&show_icons=true&theme=tokyonight&hide_border=true" alt="stats" />
+  <img src="https://github-readme-stats.deno.dev/api/top-langs/?username=YvainZhang&layout=compact&theme=tokyonight&hide_border=true" alt="langs" />
 </p>
 
 ---
