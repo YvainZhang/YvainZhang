@@ -1,8 +1,15 @@
 <div align="center">
 
-<!-- Matrix Effect -->
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJ4Znd4Znh4Znh4Znh4Znh4Znh4Znh4Znh4Znh4Znh4Znh4Znh4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/6u02V2Lw0T9p6/giphy.gif" width="100%" />
+# `root@YvainZhang:~$ whoami`
 
+### 🛡️ Senior Embedded Software Architect | OS Kernel & Driver Expert
+---
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00ff00&center=true&vCenter=true&lines=System+Programming+in+C%2FRust;Optimizing+Linux%2FFreeRTOS+Kernels;Building+SoC+SDKs+and+Driver+Architectures;Debugging+the+Unfixable" alt="Typing SVG" />
+
+---
+
+### `~/system_init/`
 ```bash
 root@YvainZhang:~$ ./init_profile.sh
 [INFO] Loading System Profile...
@@ -14,13 +21,6 @@ root@YvainZhang:~$ ./init_profile.sh
        └── Network_Stacks.... [ OK ]
 [INFO] System Ready.
 ```
-
-# `root@YvainZhang:~$ whoami`
-
-### 🛡️ Senior Embedded Software Architect | OS Kernel & Driver Expert
----
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00ff00&center=true&vCenter=true&lines=System+Programming+in+C%2FRust;Optimizing+Linux%2FFreeRTOS+Kernels;Building+SoC+SDKs+and+Driver+Architectures;Debugging+the+Unfixable" alt="Typing SVG" />
 
 ---
 
