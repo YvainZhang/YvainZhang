@@ -1,26 +1,7 @@
 <div align="center">
 
-<!-- Dynamic SVG Animation -->
-<svg width="800" height="120" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <style>
-      @keyframes matrix {
-        from { transform: translateY(-100%); }
-        to { transform: translateY(100%); }
-      }
-      .text {
-        font-family: 'Courier New', monospace;
-        font-size: 14px;
-        fill: #00ff00;
-        animation: matrix 5s linear infinite;
-      }
-    </style>
-  </defs>
-  <rect width="100%" height="100%" fill="black" />
-  <text x="10" y="20" class="text">0101010101010101010101010101010101010101010101010101</text>
-  <text x="10" y="40" class="text" style="animation-delay: -2s;">0010100100101001001010010010100100101001001010010010</text>
-  <text x="10" y="60" class="text" style="animation-delay: -4s;">1010110110101101101011011010110110101101101011011010</text>
-</svg>
+<!-- Matrix Effect -->
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJ4Znd4Znh4Znh4Znh4Znh4Znh4Znh4Znh4Znh4Znh4Znh4Znh4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/6u02V2Lw0T9p6/giphy.gif" width="100%" />
 
 ```bash
 root@YvainZhang:~$ ./init_profile.sh
