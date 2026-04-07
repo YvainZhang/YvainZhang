@@ -30,7 +30,7 @@
 > Operational Status:
   [+] Workflow: AI-augmented, high-efficiency development.
   [+] Focus: SoC architecture & hardware-software co-design.
-  [+] Availability: Open to challenging architectural R&D projects.
+  [+] Focus: Challenging architectural RAvailability: Open to challenging architectural R&D projectsD projects.
 ```
 
 ---
