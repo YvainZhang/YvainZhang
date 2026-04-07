@@ -32,11 +32,15 @@
 
 ---
 
-### `~/stats/`
-<p align="center">
-  <img src="https://github-readme-stats.deno.dev/api?username=YvainZhang&show_icons=true&theme=tokyonight&hide_border=true" alt="stats" />
-  <img src="https://github-readme-stats.deno.dev/api/top-langs/?username=YvainZhang&layout=compact&theme=tokyonight&hide_border=true" alt="langs" />
-</p>
+### `~/system_metrics/`
+```bash
+> Initializing hardware-level diagnostics... [OK]
+> Experience: 10+ Years Embedded Systems R&D
+> Stability Index: 100% Core Driver Performance
+> Tech Stack: C/C++, Rust, Python, Go
+> Specialization: Kernel, Driver, Firmware, SoC
+> AI Integration: High-Efficiency Workflow Ready
+```
 
 ---
 
