@@ -20,26 +20,17 @@
 
 ---
 
-### `~/professional_summary/`
-
+### `~/system_status/`
 ```bash
-[+] 10+ years of deep-dive R&D in embedded systems, focused on chip-vendor level SDK development.
-[+] Proficient in Linux/FreeRTOS kernel scheduling, memory models, and cross-platform driver architecture.
-[+] Expert in WiFi/IoT protocol stack optimization and multimedia middleware development.
-[+] Proven track record in resolving complex issues: deadlocks, memory corruption, and system performance bottlenecks.
-[+] Leverage AI to streamline development, boosting driver adaptation efficiency by 50%+.
-```
+> Core Competencies:
+  [+] 10+ years of deep-dive R&D in chip-vendor level SDKs & Driver Architecture.
+  [+] Expertise: Linux Kernel, RTOS, Multimedia Middleware, & Network Stacks.
+  [+] Track Record: Robust bug-fixing (deadlocks, memory leaks, performance bottlenecks).
 
----
-
-### `~/system_metrics/`
-```bash
-> Initializing hardware-level diagnostics... [OK]
-> Experience: 10+ Years Embedded Systems R&D
-> Stability Index: 100% Core Driver Performance
-> Tech Stack: C/C++, Rust, Python, Go
-> Specialization: Kernel, Driver, Firmware, SoC
-> AI Integration: High-Efficiency Workflow Ready
+> Operational Status:
+  [+] Workflow: AI-augmented, high-efficiency development.
+  [+] Focus: SoC architecture & hardware-software co-design.
+  [+] Availability: Open to challenging architectural R&D projects.
 ```
 
 ---
