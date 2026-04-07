@@ -1,5 +1,18 @@
 <div align="center">
 
+```bash
+root@YvainZhang:~$ ./init_profile.sh
+[INFO] Loading System Profile...
+[INFO] Role: Senior Embedded Software Architect
+[INFO] Architecture: SoC / Kernel / Driver
+[INFO] Initializing Core Modules: 
+       ├── Linux_Kernel...... [ OK ]
+       ├── Driver_SDK........ [ OK ]
+       ├── Multimedia........ [ OK ]
+       └── Network_Stacks.... [ OK ]
+[INFO] System Ready.
+```
+
 # `root@YvainZhang:~$ whoami`
 
 ### 🛡️ Senior Embedded Software Architect | OS Kernel & Driver Expert
@@ -29,8 +42,7 @@
 
 > Operational Status:
   [+] Workflow: AI-augmented, high-efficiency development.
-  [+] Focus: SoC architecture & hardware-software co-design.
-  [+] Focus: Challenging architectural RAvailability: Open to challenging architectural R&D projectsD projects.
+  [+] Focus: Challenging architectural R&D projects.
 ```
 
 ---
