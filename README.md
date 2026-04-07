@@ -2,19 +2,33 @@
 
 # `root@YvainZhang:~$ whoami`
 
-### 💻 System Architect | Open Source Enthusiast | Code Ninja
+### 🛡️ Senior Embedded Software Architect | OS Kernel & Driver Expert
+---
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00ff00&center=true&vCenter=true&lines=System+Programming+in+C%2FRust;Optimizing+Linux%2FFreeRTOS+Kernels;Building+SoC+SDKs+and+Driver+Architectures;Debugging+the+Unfixable" alt="Typing SVG" />
 
 ---
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00ff00&center=true&vCenter=true&lines=Eat+Sleep+Code+Repeat;Building+the+Future+of+Open+Source;Hacking+my+way+through+the+matrix" alt="Typing SVG" />
-
----
-
-### `~/skills/`
+### `~/expertise/`
 <p align="center">
-  <img src="https://img.shields.io/badge/Language-Python%20%7C%20Go%20%7C%20TypeScript-00ff00?style=for-the-badge&logo=appveyor" />
-  <img src="https://img.shields.io/badge/Framework-React%20%7C%20FastAPI%20%7C%20Docker-00ff00?style=for-the-badge&logo=appveyor" />
+  <img src="https://img.shields.io/badge/C%2FC++-00ff00?style=for-the-badge&logo=c&logoColor=black" />
+  <img src="https://img.shields.io/badge/Linux%20Kernel-00ff00?style=for-the-badge&logo=linux" />
+  <img src="https://img.shields.io/badge/RTOS-00ff00?style=for-the-badge&logo=freertos" />
+  <img src="https://img.shields.io/badge/SoC%20SDK-00ff00?style=for-the-badge&logo=arm" />
+  <img src="https://img.shields.io/badge/Network%20Stacks-00ff00?style=for-the-badge&logo=wifi" />
 </p>
+
+---
+
+### `~/professional_summary/`
+
+```bash
+[+] 10+ years of deep-dive R&D in embedded systems, focused on chip-vendor level SDK development.
+[+] Proficient in Linux/FreeRTOS kernel scheduling, memory models, and cross-platform driver architecture.
+[+] Expert in WiFi/IoT protocol stack optimization and multimedia middleware development.
+[+] Proven track record in resolving complex issues: deadlocks, memory corruption, and system performance bottlenecks.
+[+] Leverage AI to streamline development, boosting driver adaptation efficiency by 50%+.
+```
 
 ---
 
@@ -26,16 +40,13 @@
 
 ---
 
-### `~/terminal/`
-```bash
-> Initializing security protocols... [OK]
-> Fetching repository data... [OK]
-> System status: Fully Operational.
-> Current objective: Building scalable systems.
-```
+### `~/mission/`
+> "Turning complex hardware specs into high-performance, robust software architectures."
 
 ---
 
-*“The matrix is everywhere. It is all around us.”*
+<p align="center">
+  📫 915865053@qq.com | 📍 Nanjing, China
+</p>
 
 </div>
