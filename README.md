@@ -27,10 +27,10 @@ root@YvainZhang:~$ ./init_profile.sh
 ### `~/expertise/`
 <p align="center">
   <img src="https://img.shields.io/badge/C%2FC++-00ff00?style=for-the-badge&logo=c&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-00ff00?style=for-the-badge&logo=python&logoColor=black" />
-  <img src="https://img.shields.io/badge/Shell-00ff00?style=for-the-badge&logo=gnu-bash&logoColor=black" />
   <img src="https://img.shields.io/badge/Linux%20Kernel-00ff00?style=for-the-badge&logo=linux" />
+  <img src="https://img.shields.io/badge/RTOS-00ff00?style=for-the-badge&logo=freertos" />
   <img src="https://img.shields.io/badge/SoC%20SDK-00ff00?style=for-the-badge&logo=arm" />
+  <img src="https://img.shields.io/badge/Network%20Stacks-00ff00?style=for-the-badge&logo=wifi" />
 </p>
 
 ---
