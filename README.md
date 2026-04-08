@@ -5,7 +5,7 @@
 ### 🛡️ Senior Embedded Software Architect | OS Kernel & Driver Expert
 ---
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00ff00&center=true&vCenter=true&lines=System+Programming+in+C%2FRust;Optimizing+Linux%2FFreeRTOS+Kernels;Building+SoC+SDKs+and+Driver+Architectures;Debugging+the+Unfixable" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00ff00&center=true&vCenter=true&lines=System+Programming+in+C%2FC++;Optimizing+Linux%2FFreeRTOS+Kernels;Building+SoC+SDKs+&+Drivers;Debugging+the+Unfixable" alt="Typing SVG" />
 
 ---
 
